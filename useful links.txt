@@ -1,0 +1,6 @@
+https://istarik.ru/blog/stm32/118.html
+https://open4tech.com/open-drain-output-vs-push-pull-output/
+https://digilent.com/blog/how-to-convert-magnetometer-data-into-compass-heading/
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.siitek.com.cn/Upfiles/down/QMC7983%20Datasheet%20-NCP-Rev1.0.pdf
+https://4pda.to/forum/index.php?showtopic=884713&st=3760#entry96411343
+https://www.onetransistor.eu/2017/08/ch341a-mini-programmer-schematic.html
